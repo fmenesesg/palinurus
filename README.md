@@ -5,5 +5,6 @@
 * only works for single-port services
 * normal names will be converted to camelCase
 * doesn’t convert configuration options, like command line arguments and environment variables
-* defalt probes that are being created are to be edited or deleted
+* defalt probes that are being created are to be edited or deleted.
+*
 
